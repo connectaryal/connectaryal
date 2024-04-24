@@ -1,6 +1,8 @@
 
 # Hi, I'm Shiva Aryal (connectaryal)! 👋
 
+![App Screenshot](140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
 
 ## 🚀 About Me
 Detail-oriented full-stack developer with 5+ years of experience building web applications using TypeScript, Reactjs, Nextjs, Firebase, Tailwind CSS, MaterialUI, Node.js, MySQL, and WordPress. Equipped with a strong foundation in computer science (BSc) and MBA studies
